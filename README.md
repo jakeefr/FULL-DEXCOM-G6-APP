@@ -83,9 +83,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Dexcom for their CGM technology
-- The Expo team for their amazing framework
-- The open-source community for their contributions
-
+  
 ## Support
 
 For support, please open an issue in the GitHub repository or contact support@dexcomconnect.com.
