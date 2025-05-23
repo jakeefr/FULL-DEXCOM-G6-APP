@@ -34,7 +34,7 @@ A beautiful and user-friendly mobile application that connects with your Dexcom 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/jakeefr/FULL-DEXCOM-G6-APP
+git clone https://github.com/jakeefr/FULL-DEXCOM-G6-APP.git
 ```
 
 2. Install dependencies:
