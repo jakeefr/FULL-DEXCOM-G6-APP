@@ -15,12 +15,12 @@ A beautiful and user-friendly mobile application that connects with your Dexcom 
 ## Screenshots
 
 <p align="center">
-  <img src="App1.png" width="300"/>
-  <img src="App2.png" width="300"/>
+  <img src="Todays-Glucose.png" width="300"/>
+  <img src="GlucoseHistory.png" width="300"/>
 </p>
 <p align="center">
-  <img src="App3.png" width="300"/>
-  <img src="App4.png" width="300"/>
+  <img src="GlucoseStatistics.png" width="300"/>
+  <img src="Settings.png" width="300"/>
 </p>
 
 ## Getting Started
