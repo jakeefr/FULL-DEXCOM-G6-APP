@@ -14,11 +14,10 @@ A beautiful and user-friendly mobile application that connects with your Dexcom 
 
 ## Screenshots
 
-![Dexcom App Screenshot 1](App1.png)
-![Dexcom App Screenshot 2](App2.png)
-![Dexcom App Screenshot 3](App3.png)
-![Dexcom App Screenshot 4](App4.png)
-
+<img src="App1.png" width="300"/>
+<img src="App2.png" width="300"/>
+<img src="App3.png" width="300"/>
+<img src="App4.png" width="300"/>
 
 ## Getting Started
 
