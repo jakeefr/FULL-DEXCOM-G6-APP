@@ -14,9 +14,9 @@ A beautiful and user-friendly mobile application that connects with your Dexcom 
 
 ## Screenshots
 
-![Today Screen](https://www.pexels.com/photo/hand-smartphone-date-technology-6823602/)
-![History Screen](https://www.pexels.com/photo/healthy-person-woman-hand-6823504/)
-![Statistics Screen](https://www.pexels.com/photo/person-holding-smartphone-with-blood-sugar-level-on-screen-6823392/)
+![Today Screen](https://www.pexels.com/photo/hand-smartphone-date-technology-6823602.jpeg?auto=compress&cs=tinysrgb&w=300/)
+![History Screen](https://www.pexels.com/photo/healthy-person-woman-hand-6823504.jpeg?auto=compress&cs=tinysrgb&w=300/)
+![Statistics Screen](https://www.pexels.com/photo/person-holding-smartphone-with-blood-sugar-level-on-screen-6823392.jpeg?auto=compress&cs=tinysrgb&w=300/)
 
 ## Getting Started
 
