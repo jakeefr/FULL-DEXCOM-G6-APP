@@ -27,8 +27,6 @@ A beautiful and user-friendly mobile application that connects with your Dexcom 
 
 ### Prerequisites
 
-- Node.js 18 or later
-- Expo CLI
 - Dexcom G6 CGM and mobile app
 - iOS device (for Apple Health integration)
 
